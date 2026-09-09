@@ -1,6 +1,6 @@
 # Diyar Jabar Bab Yazdin
 
-Business and innovation leader in Erbil, Kurdistan Region of Iraq. Five years at Korek Telecom, three years in business development and AI innovation at Tornet. I build complete products on my own by directing AI coding agents from a business case to a working system.
+I am a business and innovation leader in Erbil, Kurdistan Region of Iraq: five years at Korek Telecom, three years in business development and AI innovation at Tornet. I build complete products on my own by directing AI coding agents from a business case to a working system.
 
 ## Products
 
@@ -15,6 +15,6 @@ Business and innovation leader in Erbil, Kurdistan Region of Iraq. Five years at
 
 - I brief AI the way I would brief a team: a business case and a clear specification, never a vague prompt.
 - I run many AI agents at once and set them to challenge one another's work.
-- Nothing ships until it has proven itself against reality, not just on paper.
+- I ship nothing until it has proven itself against reality, not just on paper.
 
 📍 Erbil · ✉️ diyar.jabar@tornet.co

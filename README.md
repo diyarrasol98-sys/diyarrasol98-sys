@@ -17,4 +17,4 @@ I am a business and innovation leader in Erbil, Kurdistan Region of Iraq: five y
 - I run many AI agents at once and set them to challenge one another's work.
 - I ship nothing until it has proven itself against reality, not just on paper.
 
-📍 Erbil · ✉️ diyar.jabar@tornet.co
+📍 Erbil · ✉️ diyarrasol98@gmail.com
